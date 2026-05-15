@@ -1,2 +1,2 @@
 # hazard-data
-Rebecca Hazard 2026 dissertation data
+Rebecca Hazard 2026 doctoral dissertation data
